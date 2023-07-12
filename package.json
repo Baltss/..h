@@ -1,0 +1,32 @@
+{
+  "name": "proyecto_lab",
+  "version": "1.0.0",
+  "description": "Proyecto para la materia de Laboratorio 3, creacion de una rest api",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baltss/Proyecto_lab.git"
+  },
+  "keywords": [
+    "\u001b[D"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baltss/Proyecto_lab/issues"
+  },
+  "homepage": "https://github.com/Baltss/Proyecto_lab#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql2": "^3.5.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^2.0.22"
+  }
+}
